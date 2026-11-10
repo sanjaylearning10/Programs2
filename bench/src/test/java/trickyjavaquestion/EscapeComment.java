@@ -1,0 +1,11 @@
+package trickyjavaquestion;
+
+public class EscapeComment {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub \u000d System.out.println("Hello World");
+
+		System.out.println("Sanjay");
+	}
+
+}
